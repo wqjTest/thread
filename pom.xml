@@ -11,6 +11,8 @@
     <modules>
         <module>thread_create_demo</module>
         <module>thread_safe_demo</module>
+        <module>thread_lock_demo</module>
+        <module>thread_com_demo</module>
     </modules>
 
 
