@@ -13,6 +13,8 @@
         <module>thread_safe_demo</module>
         <module>thread_lock_demo</module>
         <module>thread_com_demo</module>
+        <module>thread_ctl_demo</module>
+        <module>thread_ctl_demo</module>
     </modules>
 
 
